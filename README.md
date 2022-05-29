@@ -60,3 +60,4 @@ module BCD_tb;
   end
 endmodule 
 ```
+![image](https://user-images.githubusercontent.com/101077336/170857254-7a89e81c-7643-4a67-8ecb-5e2580b9d5ee.png)
